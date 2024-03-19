@@ -120,7 +120,7 @@ main > div {
 }
 .image{
     position: relative;
-    max-width: 600px;
+    max-width: 500px;
     margin: 0 auto;
 }
 .image::before{
@@ -138,7 +138,7 @@ main > div {
 }
 
 .image img{
-    max-width: 600px;
+    max-width: 500px;
     margin: auto;
 }
 
@@ -154,10 +154,10 @@ main > div {
 /* 막대그래프 */
 .zt-skill-bar {
     color: #fff;
-    font-size: 11px;
+    font-size: 18px;
     line-height: 25px;
     height: 25px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 
     background-color: rgba(0,0,0,0.1);
 
@@ -282,6 +282,7 @@ main > div {
 /* Footer */
 footer {
     max-width: 1200px;
+    padding: 50px 0 30px 0;
     margin: 0 auto;
     text-align: center;
 }
