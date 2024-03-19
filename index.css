@@ -120,6 +120,8 @@ main > div {
 }
 .image{
     position: relative;
+    max-width: 600px;
+    margin: 0 auto;
 }
 .image::before{
     content: "o";
